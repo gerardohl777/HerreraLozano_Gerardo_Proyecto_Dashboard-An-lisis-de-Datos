@@ -6,6 +6,7 @@ El objetivo principal es transformar, analizar y visualizar los datos para obten
 
 Dataset
 Fuente: Kaggle
+https://www.kaggle.com/datasets/ramnquintana/resultados-de-futbol-entre-1872-y-2017
 
 Contenido: Resultados históricos de partidos entre selecciones nacionales
 
@@ -43,3 +44,15 @@ Top selecciones como local: número de veces jugadas
 Distribución de resultados: victorias, empates y derrotas
 
 Métrica destacada: torneo más jugado y año más activo
+
+
+Herramientas utilizadas
+Google Sheets: limpieza, análisis, visualizaciones y dashboards
+
+Fórmulas avanzadas: INDICE, COINCIDIR, FILTRO, SI, CONTAR.SI, SUMAR.SI
+
+Tablas dinámicas y gráficos automáticos
+
+
+Conclusiones
+Este análisis permitió observar patrones históricos en el fútbol de selecciones, identificando los torneos más recurrentes, la evolución anual de partidos y los países con mayor actividad internacional. 
